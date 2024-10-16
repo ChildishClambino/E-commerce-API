@@ -6,7 +6,7 @@ The first thing you should know about this app is that it was run on a virtual e
 
 You also may want to set up a virtual enviornment in case some of the installs conflict with other projects or packages in the future!
 ---------------------------------------
-under construction
+How to run
 =======================================
 In order to run this program you need to run 
 
